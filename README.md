@@ -1,7 +1,7 @@
 # Hi, I'm Damjan Zimbakov &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=zimbakovtech&color=grey"/>
 
 <p align="left">
-  <a href="https://zimbakov.dev/" target="_blank" rel="noreferrer" title="Portfolio"><img src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-icon.svg" width="28" /></a>&nbsp;&nbsp;
+  <a href="https://zimbakov.dev/" target="_blank" rel="noreferrer" title="Portfolio"><img src="https://zimbakov.dev/images/memoji.png" height="30" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/damjan-zimbakov-775077213/" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="28" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/damjanzimbakov" target="_blank" rel="noreferrer" title="Instagram"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="28" /></a>&nbsp;&nbsp;
   <a href="mailto:damjan@zimbakov.dev" title="Email"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="28" /></a>
